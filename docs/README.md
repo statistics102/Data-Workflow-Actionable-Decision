@@ -1,9 +1,9 @@
 # README.md
 # Create this file manually with the following content:
 """
-# Reproducible Data Analysis Pipeline
+# Reproducible Data Analysis Pipeline with The Decision Tree Intelligence Engine
 
-## 📊 Complete Data Analysis Workflow
+## 📊 Complete Data Analysis Workflow and The Decision Tree Intelligence Engine
 
 This project demonstrates a complete, reproducible data analysis pipeline from raw data to actionable insights.
 
@@ -16,4 +16,10 @@ This project demonstrates a complete, reproducible data analysis pipeline from r
 - **🌳Decision Tree Intelligence**: Automated classification & rule extraction
 - **📝Interpretation**: Derive business insights and conclusions
 
+The Decision Tree Intelligence Engine will automatically:
+Train a decision tree model
+Extract business rules in plain English
+Identify critical cutoff values for decisions
+Show feature importance rankings
+Generate actionable recommendations
 ## 📁 Project Structure
