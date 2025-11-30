@@ -7,12 +7,13 @@
 
 This project demonstrates a complete, reproducible data analysis pipeline from raw data to actionable insights.
 
-## 🚀 Features
+## 🚀 Features 🎯
 
-- **Data Cleaning**: Handle missing values and anomalies
-- **Exploratory Analysis**: Discover patterns and relationships  
-- **Statistical Testing**: Validate hypotheses with proper tests
-- **Visualization**: Create publication-ready dashboards
-- **Interpretation**: Derive business insights and conclusions
+- **📊Data Cleaning**: Handle missing values and anomalies
+- **🔍Exploratory Analysis**: Discover patterns and relationships  
+- **📈Statistical Testing**: Validate hypotheses with proper tests
+- **📊Visualization**: Create publication-ready dashboards
+- **🌳Decision Tree Intelligence**: Automated classification & rule extraction
+- **📝Interpretation**: Derive business insights and conclusions
 
 ## 📁 Project Structure
